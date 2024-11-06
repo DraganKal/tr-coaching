@@ -32,7 +32,7 @@
 .btn-primary-tr:hover {
   color: #b8b3ad !important;
   background-color: #fff !important;
-  border-color: #fff !important;
+  border-color: #b8b3ad !important;
 }
 
 .btn-primary-tr:active {
@@ -198,4 +198,9 @@
 
 .signature-img {
   height: 60px;
+}
+
+.large-btn-tr {
+  width: 250px;
+  padding: 50px 0 !important;
 }
