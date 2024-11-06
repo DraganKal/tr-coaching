@@ -1,0 +1,201 @@
+/* main color: #b8b3ad */
+
+.main-sub-header {
+  color: #b8b3ad;
+}
+.main-text {
+  color: #fff;
+}
+
+.color-white {
+  color: #fff !important;
+}
+
+.color-primary {
+  color: #b8b3ad !important;
+}
+
+.color-secondary {
+  color: #d8d5d0 !important;
+}
+
+.color-brown {
+  color: #777777 !important;
+}
+
+.btn-primary-tr {
+  background-color: #b8b3ad;
+  border-color: #b8b3ad;
+  color: #fff;
+}
+
+.btn-primary-tr:hover {
+  color: #b8b3ad !important;
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+
+.btn-primary-tr:active {
+  color: #b8b3ad !important;
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+
+.btn-primary-tr:focus {
+  color: #b8b3ad !important;
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+
+.btn-secondary-tr {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-secondary-tr:hover {
+  background-color: #b8b3ad !important;
+  border-color: #b8b3ad;
+  color: #fff;
+}
+
+.btn-secondary-tr:active {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-secondary-tr:focus {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-tertiary-tr {
+  color: #fff;
+  background-color: #d8d5d0;
+  border-color: #fff;
+}
+
+.btn-tertiary-tr:hover {
+  background-color: #b8b3ad !important;
+  border-color: #b8b3ad;
+}
+
+.btn-tertiary-tr:active {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-tertiary-tr:focus {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-quart-tr {
+  background-color: #b8b3ad;
+  border-color: #b8b3ad;
+  color: #fff;
+}
+
+.btn-quart-tr:hover {
+  background-color: #d8d5d0 !important;
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn-quart-tr:active {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-quart-tr:focus {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-white-border-tr {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #b8b3ad;
+}
+
+.btn-white-border-tr:hover {
+  background-color: #b8b3ad !important;
+  border-color: #b8b3ad;
+}
+
+.btn-white-border-tr:active {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.bkg-color-primary {
+  background-color: #b8b3ad !important;
+}
+
+.bkg-color-secondary {
+  background-color: #d8d5d0 !important;
+}
+
+.bkg-color-tertiary {
+  background-color: #edeae7 !important;
+}
+
+.number-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #a39b958b; /* Braon boja sa transparentnošću */
+  z-index: 1;
+}
+
+.number-section {
+  position: relative;
+  z-index: 0; /* Obezbeđuje da sadržaj sekcije ostane iznad filtera */
+}
+
+.content-top {
+  z-index: 100;
+}
+
+.border-left-secondary {
+  border-left: 1px solid #d8d5d0;
+}
+
+.block-follow-instagram {
+  border-radius: 10px;
+  width: 400px;
+  height: 200px;
+}
+
+.instagram-text {
+  font-size: 25px !important;
+}
+
+@media (max-width: 991px) {
+  .block-follow-instagram {
+    width: 300px;
+    height: 200px;
+  }
+
+  .instagram-text {
+    font-size: 20px !important;
+  }
+}
+
+.program-price {
+  font-size: 22px;
+}
+
+.signature-img {
+  height: 60px;
+}
