@@ -212,3 +212,13 @@
 .f-w-4 {
   font-weight: 400 !important;
 }
+
+.form-tr-input {
+  border: 1px solid #ced4da !important;
+}
+
+.form-tr-input:active,
+.form-tr-input:focus {
+  border-color: #111 !important;
+}
+
