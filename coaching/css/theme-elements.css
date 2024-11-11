@@ -11324,7 +11324,7 @@ button.mfp-arrow.mfp-arrow-right:after {
 /* Close */
 .mfp-close,
 .mfp-close-btn-in .mfp-close {
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Montserrat", Arial, sans-serif;
 	font-weight: 600;
 	font-size: 22px;
 	color: #838383;
@@ -18945,7 +18945,7 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link:hover html
 
 .testimonial.testimonial-style-3 blockquote p {
 	color: var(--default);
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Montserrat", Arial, sans-serif;
 	font-size: 1em;
 	font-style: normal;
 }
@@ -19008,7 +19008,7 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link:hover html
 
 .testimonial.testimonial-style-4 blockquote p {
 	color: var(--default);
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Montserrat", Arial, sans-serif;
 	font-size: 1em;
 	font-style: normal;
 }
@@ -19052,7 +19052,7 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link:hover html
 
 .testimonial.testimonial-style-5 blockquote p {
 	color: var(--default);
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Montserrat", Arial, sans-serif;
 	font-size: 1.2em;
 	font-style: normal;
 }
@@ -21072,7 +21072,7 @@ p.drop-caps.drop-caps-style-2:first-letter {
 
 /* Default Font Style */
 .default-font {
-	font-family: "Poppins", Arial, sans-serif !important;
+	font-family: "Montserrat", Arial, sans-serif !important;
 }
 
 /* Alternative Font Style */
@@ -21090,7 +21090,7 @@ p.drop-caps.drop-caps-style-2:first-letter {
 }
 
 .alternative-font-4 {
-	font-family: 'Poppins', Arial, sans-serif !important;
+	font-family: 'Montserrat', Arial, sans-serif !important;
 }
 
 .alternative-font-5 {
