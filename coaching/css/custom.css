@@ -151,6 +151,10 @@
   background-color: #edeae7 !important;
 }
 
+.bkg-color-white {
+  background-color: #fff !important;
+}
+
 .number-section::before {
   content: "";
   position: absolute;
@@ -226,3 +230,22 @@
   font-size: 12px;
 }
 
+.disclaimer {
+  color: #fff !important;
+}
+
+.disclaimer:hover {
+  color: #d8d5d0  !important;
+}
+
+.besplatni-title-h:before {
+  height: 187px !important;
+}
+
+.shorts-container {
+  border-radius: 10px;
+}
+
+.masterclass-prijava {
+  border-left: 1px solid #e6e6e6;
+}
