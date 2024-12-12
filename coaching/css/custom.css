@@ -249,3 +249,7 @@
 .masterclass-prijava {
   border-left: 1px solid #e6e6e6;
 }
+
+.expectation-list {
+  max-width: 550px;
+}
