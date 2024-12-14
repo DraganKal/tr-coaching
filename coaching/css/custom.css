@@ -253,3 +253,20 @@
 .expectation-list {
   max-width: 550px;
 }
+
+.social-heading {
+  display: flex;
+  gap: 4px;
+}
+
+.social-icon-translate {
+  transform: translateY(3px);
+}
+
+.no-border {
+  border: none !important;
+}
+
+.no-scroll {
+  overflow: hidden !important;
+}
