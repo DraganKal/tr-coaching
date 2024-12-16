@@ -19609,7 +19609,7 @@ html.dark .text-muted {
 
 @media (min-width: 1500px) {
   .transform3dx-n50 {
-    transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-60%, 0, 0);
   }
 }
 

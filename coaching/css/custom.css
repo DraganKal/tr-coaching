@@ -235,7 +235,7 @@
 }
 
 .disclaimer:hover {
-  color: #d8d5d0  !important;
+  color: #d8d5d0 !important;
 }
 
 .besplatni-title-h:before {
@@ -269,4 +269,29 @@
 
 .no-scroll {
   overflow: hidden !important;
+}
+
+.instagram-media {
+  border-radius: 10px !important;
+}
+
+.link-text {
+  color: #b8b3ad;
+}
+
+.no-decoration:link,
+.no-decoration:visited,
+.no-decoration:hover,
+.no-decoration:focus,
+.no-decoration:active {
+  text-decoration: none !important;
+}
+
+.video-container {
+  border-radius: 20px !important;
+}
+
+.video-container video {
+  height: 100%;
+  width: auto;
 }

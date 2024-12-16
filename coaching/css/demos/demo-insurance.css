@@ -32,12 +32,12 @@
 		}
 }
 
-.custom-container-background {
+/* .custom-container-background {
 		position: relative;
 		margin-top: -100px;
-}
+} */
 
-.custom-container-background:before {
+/* .custom-container-background:before {
 		content: '';
 		position: absolute;
 		top: 0;
@@ -46,7 +46,7 @@
 		width: 125%;
 		height: 300px;
 		background: var(--light);
-}
+} */
 
 .custom-form-control-group-style-1 .form-control {
 		height: 60px;
