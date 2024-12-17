@@ -6366,7 +6366,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 }
 
 .divider.divider-primary.divider-small hr {
-	background: var(--primary);
+	background: #eae9e9;
 }
 
 .divider.divider-secondary [class*="fa-"], .divider.divider-secondary .icons {
