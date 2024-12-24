@@ -299,3 +299,11 @@
 .no-padding-left {
   padding-left: 0px !important;
 }
+
+.prijava-container {
+ padding: 200px 0 200px 0;
+}
+
+.masterclass-text {
+  padding-right: 50px;
+}
