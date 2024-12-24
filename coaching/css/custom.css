@@ -295,3 +295,7 @@
   height: 100%;
   width: auto;
 }
+
+.no-padding-left {
+  padding-left: 0px !important;
+}
