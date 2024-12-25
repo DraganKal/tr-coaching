@@ -301,9 +301,13 @@
 }
 
 .prijava-container {
- padding: 200px 0 200px 0;
+ padding: 120px 0 120px 0;
 }
 
 .masterclass-text {
   padding-right: 50px;
+}
+
+.coaching-link:hover {
+  color: #626262;
 }
