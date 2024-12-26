@@ -311,3 +311,29 @@
 .coaching-link:hover {
   color: #626262;
 }
+
+.vidi-vise-btn {
+  transform: translate(60px, -60px);
+  transform: tra;
+}
+
+@media (max-width: 575.98px) {
+  .program-btn-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+
+  .video-container video {
+    height: auto;
+    width: 100%;
+  }
+
+  .masterclass-text {
+    padding: 0 !important;
+  }
+
+  .resursi-item {
+    padding-top: 10px;
+  }
+}

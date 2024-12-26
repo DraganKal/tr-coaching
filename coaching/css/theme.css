@@ -106,6 +106,7 @@ li {
 }
 
 #header .header-container {
+  height: 107px;
   position: relative;
   display: flex;
   flex-flow: row wrap;
